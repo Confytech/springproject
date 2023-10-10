@@ -1,1 +1,1 @@
-My week 8 project
+My project
